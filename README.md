@@ -50,7 +50,6 @@
 | Project | Description |
 |---|---|
 | **🧠 HireMatrix** | AI-powered hiring platform — auto-generates assessments, evaluates candidates, detects cheating. Stack: Next.js, Supabase, OpenAI |
-| **🛒 [Add your Shopify project name]** | Shopify custom storefront with REST API integrations. Stack: React, Node.js, Shopify API |
 
 <!-- Section 8 — Connect with me -->
 <p align="center">
