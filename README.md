@@ -3,7 +3,7 @@
 
 <!-- Section 2 — Animated typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=5B4EE8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+🚀;MERN+Stack+%7C+Next.js+%7C+Supabase;Shopify+%7C+REST+APIs+%7C+PostgreSQL;Always+learning%2C+always+building." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=5B4EE8&center=true&vCenter=true&width=600&lines=Full%20Stack%20Developer%20%F0%9F%9A%80;MERN%20Stack%20%7C%20Next.js%20%7C%20Supabase;Shopify%20%7C%20REST%20APIs%20%7C%20PostgreSQL;Always%20learning%2C%20always%20building." />
 </p>
 
 <!-- Section 3 — Info badges row centered -->
@@ -50,6 +50,7 @@
 | Project | Description |
 |---|---|
 | **🧠 HireMatrix** | AI-powered hiring platform — auto-generates assessments, evaluates candidates, detects cheating. Stack: Next.js, Supabase, OpenAI |
+| **🛒 [Add your Shopify project name]** | Shopify custom storefront with REST API integrations. Stack: React, Node.js, Shopify API |
 
 <!-- Section 8 — Connect with me -->
 <p align="center">
